@@ -18,7 +18,17 @@ module.exports = {
         "qjyellow": "#F2A341",
         "qjwhite": "#F2F1E4",
         "qjblack": "#0D0D0D",
-      }
+      },
+      height: {
+        100: '40rem',
+        125: '50rem',
+      },
+      flexGrow: {
+        2: '2',
+      },
+      screens: {
+        'max-md': { max: '767px' },
+      },
     },
   },
   plugins: [],

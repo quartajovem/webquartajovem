@@ -1,6 +1,8 @@
 import { BannerHome } from '@/components/BannerHome';
 import { SobreNos } from '@/components/SobreNos';
 import { Services } from '@/components/Services';
+import { Socios } from '@/components/Socios';
+import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -8,6 +10,7 @@ export default function Home() {
       <BannerHome />
       <SobreNos />
       <Services />
+      <Socios />
     </main>
   );
 }

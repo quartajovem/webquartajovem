@@ -1,5 +1,6 @@
 import { BannerHome } from '@/components/BannerHome';
 import { SobreNos } from '@/components/SobreNos';
+import { Services } from '@/components/Services';
 import { Socios } from '@/components/Socios';
 import Image from 'next/image';
 
@@ -8,6 +9,7 @@ export default function Home() {
     <main className="font-['Montserrat'] flex min-h-screen flex-col items-center justify-between">
       <BannerHome />
       <SobreNos />
+      <Services />
       <Socios />
     </main>
   );

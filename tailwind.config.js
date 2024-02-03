@@ -30,6 +30,9 @@ module.exports = {
       fontFamily: {
         title: ['Montserrat', 'sans-serif'],
       },
+      fontSize: {
+        '2vw': '3vw',
+      },
     },
   },
   plugins: [],

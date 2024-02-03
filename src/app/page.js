@@ -2,7 +2,7 @@ import { BannerHome } from '@/components/BannerHome';
 import { SobreNos } from '@/components/SobreNos';
 import { Services } from '@/components/Services';
 import { Socios } from '@/components/Socios';
-import Image from 'next/image';
+import { Fotos } from '@/components/Fotos';
 
 export default function Home() {
   return (
@@ -11,6 +11,7 @@ export default function Home() {
       <SobreNos />
       <Services />
       <Socios />
+      <Fotos />
     </main>
   );
 }

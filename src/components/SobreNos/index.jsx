@@ -7,7 +7,7 @@ export function SobreNos() {
       <div className="w-3/4 md:w-1/2 transition-all duration-300">
         <p className="font-['Montserrat'] text-white text-sm 2xl:text-2xl lg:text-lg transition-all duration-300">
           A <b>Quarta Jovem</b> é uma sociedade interna da <b>Quarta Igreja Presbiteriana de Garanhuns</b>. Ligada a UMP
-          (União de Mocidade Presbiteriana), tem como integrantes jovens de 18 a 35 anos.
+          (União de Mocidade Presbiteriana), tem como integrantes jovens de 19 a 35 anos.
         </p>
       </div>
     </section>

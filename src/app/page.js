@@ -6,7 +6,7 @@ import { Fotos } from '@/components/Fotos';
 
 export default function Home() {
   return (
-    <main className="font-['Montserrat'] flex min-h-screen flex-col items-center justify-between">
+    <main className="font-['Montserrat'] text-white flex min-h-screen flex-col items-center justify-between">
       <BannerHome />
       <SobreNos />
       <Services />
